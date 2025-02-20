@@ -4,4 +4,4 @@ My name is nick, i am a enthusiastic developer from the Netherlands.
 I am most interested in game development but also like to mess around with web development.
 Below are the tools and langauges i use most
 
-[![Nickje2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickje2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Nickje2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickje2000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
