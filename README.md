@@ -8,4 +8,4 @@ Below are the langauges i use most:
 
 And here is my Discord, contact me here if you want to reach me.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1342433460811206736?theme=dark&bg=7a0c82&hideBadges=false&animated=false&showDisplayName=true&borderRadius=30px&idleMessage=Not%20doing%20anything%20interesting...)](https://discord.com/users/1342433460811206736)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1403324959547461692?theme=dark&bg=7a0c82&hideBadges=false&animated=false&showDisplayName=true&borderRadius=30px&idleMessage=Not%20doing%20anything%20interesting...)](https://discord.com/users/1403324959547461692)
